@@ -358,5 +358,5 @@ event.
 
 [^1]:  Bikeshedding (or ‘too many cooks’) is the process of
     conversations getting bogged down in highly specific and/or
-    inconsiquential details see: [Parkinson's Law of
+    inconsequential details see: [Parkinson's Law of
     Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
